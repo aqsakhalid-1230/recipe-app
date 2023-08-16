@@ -1,2 +1,4 @@
 Recipe App 
-Django with Docker
+Python-Django
+
+working with docker image
