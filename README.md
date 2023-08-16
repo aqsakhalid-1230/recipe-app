@@ -1,1 +1,2 @@
-# recipe-app
+Recipe App 
+Django with Docker
